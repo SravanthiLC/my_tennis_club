@@ -1,0 +1,62 @@
+[
+{
+  "model": "members.member",
+  "pk": 1,
+  "fields": {
+    "firstname": "Michael",
+    "lastname": "Ross",
+    "phone": 1234567809,
+    "joined_date": "2022-01-01"
+  }
+},
+{
+  "model": "members.member",
+  "pk": 2,
+  "fields": {
+    "firstname": "Harry",
+    "lastname": "Potter",
+    "phone": 3453453453,
+    "joined_date": "2025-06-24"
+  }
+},
+{
+  "model": "members.member",
+  "pk": 4,
+  "fields": {
+    "firstname": "Arya",
+    "lastname": "Stark",
+    "phone": 4845856867,
+    "joined_date": "2025-02-26"
+  }
+},
+{
+  "model": "members.member",
+  "pk": 5,
+  "fields": {
+    "firstname": "Sherlock",
+    "lastname": "Holmes",
+    "phone": 8908908908,
+    "joined_date": "2026-07-24"
+  }
+},
+{
+  "model": "members.member",
+  "pk": 6,
+  "fields": {
+    "firstname": "Neal",
+    "lastname": "Caffrey",
+    "phone": 7867867861,
+    "joined_date": "2026-05-27"
+  }
+},
+{
+  "model": "members.member",
+  "pk": 7,
+  "fields": {
+    "firstname": "Sheldon",
+    "lastname": "Cooper",
+    "phone": 2982982983,
+    "joined_date": "2026-08-09"
+  }
+}
+]
